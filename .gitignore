@@ -72,7 +72,7 @@ def login():
             time.sleep(0.1) 
     else: 
         print("LOGIN FAILED CHECK YOUR INFO!") 
-login(Runyz)
+login()
 ```
 
 
